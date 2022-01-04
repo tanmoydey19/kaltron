@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.kaltron{
+    color: red;
+}
+.electronics{
+    color: yellowgreen;
+}
+.top{
+
+}
+section{
+    display: flex;
+}
+.top{
+    width: 50%;
+    padding-left: 5%;
+}
+.top img {
+    width: 70%;
+    padding-left: 5%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
+
+
+
